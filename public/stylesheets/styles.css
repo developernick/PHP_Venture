@@ -1,0 +1,29 @@
+/*font-family: 'Raleway Dots', cursive;*/
+/*font-family: 'Belgrano', serif;*/
+/*font-family: 'Share Tech Mono', ;*/
+body{
+	background-color: grey;
+	font-family: 'Belgrano', serif;
+}
+h2{
+	color:skyblue;
+	font-family: 'Belgrano', serif;
+}
+.title{
+	color: yellow;
+	text-align: center;
+	font-family: 'Raleway Dots', cursive;
+	font-size: 7em;
+}
+button{
+	font-family: 'Share Tech Mono',;
+}
+.showdate{
+	font-size: 9em;
+	font-weight: 200;
+}
+.hidedate{
+	display: none;
+	font-size: 9em;
+	font-weight: 100;
+}
